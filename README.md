@@ -1,5 +1,9 @@
 # vuetify-3
 
+## Project Video
+
+https://www.youtube.com/watch?v=GChc_fZcM6Q
+
 ## Project setup
 ```
 npm install
@@ -15,10 +19,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
